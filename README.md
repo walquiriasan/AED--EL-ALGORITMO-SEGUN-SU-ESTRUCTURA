@@ -42,7 +42,7 @@ Descripción de las estructuras del Algoritmo (Pseudocódigo)
 
 <img src="IMG/Repeticion 3.png">
 
-# Desición Multiple (SWITCH)
+# Desición Múltiple (SWITCH)
 
 <img src="IMG/Segun.png">
 
