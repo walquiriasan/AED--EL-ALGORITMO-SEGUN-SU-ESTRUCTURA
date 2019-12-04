@@ -4,7 +4,7 @@ Descripción de las estructuras del Algoritmo (Pseudocódigo)
 
 # Presentación    
 
-Algoritmo nombre
+<img src="IMG/Algoritmo nombre.png">
 
 &nbsp;
 
