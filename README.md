@@ -10,132 +10,60 @@ Descripción de las estructuras del Algoritmo (Pseudocódigo)
 
 # Start     
 
-Comenzar
+<img src="IMG/Comenzar.png">
 
 &nbsp;
 
 # Stop      
 
-Fin
+<img src="IMG/Fin.png">
 
 &nbsp;
 
 # Asignación  
 
-VAR <- EXP  donde VAR es la variable y EXP es la expresión de la misma
+<img src="IMG/Asignacion.png">
 
 &nbsp;
 
 # Entrada de datos     
 
-Leer variables
+<img src="IMG/Leer.png">
 
 &nbsp;
 
 # Salida de datos      
 
-Mostrar variables
+<img src="IMG/Mostrar.png">
 
 &nbsp;
 
 # Decisión (IF)
 
-**Si** condicion
-
-&nbsp;
-
-**entonces**
-
-&nbsp;
-
-...acciones...
-
-&nbsp;
-
-**sino**
-
-&nbsp;
-
-...acciones...
-
-&nbsp;
-
-**fin si**
+<img src="IMG/Decision.png">
               
 &nbsp;
 
 # Repetición 1 (WHILE)
 
-**Mientras** condicion
-
-&nbsp;
-
-**hacer** ...acciones..
-
-&nbsp;
-
-**fin mientras**
+<img src="IMG/Repeticion 1.png">
 
 &nbsp;
 
 # Repetición 2 (DO UNTIL)
 
-**Repetir** 
-
-&nbsp;
-
-...acciones...
-
-&nbsp;
-
-**hasta que** condicion
+<img src="IMG/Repeticion 2.png">
 
 &nbsp;
 
 # Repetición 3 (FOR)
 
-**Para** VAR desde valorINI hasta valorFIN, con paso P,
-
-&nbsp;
-
-**hacer** ...acciones...
-
-&nbsp;
-
-**fin para**
+<img src="IMG/Repeticion 3.png">
 
 &nbsp;
 
 # Desición Multiple (SWITCH)
 
+<img src="IMG/Segun.png">
 
-**Según** VAR **hacer**
-
-&nbsp;
-
-valor1: ...acciones1...
-
-&nbsp;
-
-valor2: ...acciones2...
-
-&nbsp;
-
-valor3: ...acciones3...
-
-&nbsp;
-
-. . . . . . . . . . . . . . . . . . . . . . .
-
-&nbsp;
-
-valorN: ...accionesN...
-
-&nbsp;
-
-En otros casos de valores:...accionesX...
-
-&nbsp;
-
-**fin segun**
 
