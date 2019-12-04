@@ -1,5 +1,5 @@
 # EL-ALGORITMO-SEGUN-SU-ESTRUCTURA
-Descripción de las estructuras del Algoritmo
+Descripción de las estructuras del Algoritmo (Pseudocódigo)
 
 
 # Presentación    
@@ -35,6 +35,8 @@ Leer variables
 # Salida de datos      
 
 Mostrar variables
+
+&nbsp;
 
 # Decisión (IF)
 
