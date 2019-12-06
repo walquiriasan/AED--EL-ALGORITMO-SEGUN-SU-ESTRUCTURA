@@ -3,9 +3,9 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 
 <img src="IMG/marco superior.jpg">
 
-Imagen basada en la Imagen del autor Manuchi.[^nombreDeTuNota]
+Imagen basada en la Imagen del autor Manuchi.[^1][^1]
 
-[^nombreDeTuNota]: Imagen obtenida en https://pixabay.com/es/illustrations/fondo-abstracto-l%C3%ADnea-ilustraci%C3%B3n-2462431/
+[^1]: Imagen obtenida en https://pixabay.com/es/illustrations/fondo-abstracto-l%C3%ADnea-ilustraci%C3%B3n-2462431/
 
  https://www.instagram.com/manuchi7/
 
