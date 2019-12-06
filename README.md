@@ -6,57 +6,56 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 ###### Imagen basada en la Imagen del autor [Manuchi][1] y obtenida en [Pixabay][2]
 
 # Presentación    
-
-> ## ALGORITMO NOMBRE
-
+```C++
+ ALGORITMO NOMBRE
+```
 # Start     
-
-> ## COMENZAR
-
+```C++
+ COMENZAR
+```
 # Stop      
-
-> ## FIN
-
+```C++
+ FIN
+```
 # Asignación  
-
-> ## VAR <- EXP donde VAR es la variable y EXP es la expresión de la misma
-
+```C++
+ VAR <- EXP donde VAR es la variable y EXP es la expresión de la misma
+```
 # Entrada de datos     
-
-> ## LEER variables
-
+```C++
+ LEER variables
+```
 # Salida de datos      
-
-> ## MOSTRAR variables
-
+```C++
+ MOSTRAR variables
+```
 # ESTRUCTURAS DE CONTROL
-
 Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Selectiva, Repetitiva.
 
 * ## ESTRUCTURA SECUENCIAL
-
-> ## ACCIÓN 1
-> ## ACCIÓN 2
-> ## . . . . 
-> ## ACCIÓN N
-
+```C++
+ ACCIÓN 1
+ ACCIÓN 2
+ . . . . 
+ ACCIÓN N
+```
 
 * ## ESTRUCTURA SELECTIVA SIMPLE. Decisión 1 (IF/THEN)
-
-> ## SI condición
-> ## ENTONCES 
-> ## ...accion(es)...
-> ## FIN SI
-
+```C++
+ SI condición
+ ENTONCES 
+ ...accion(es)...
+ FIN SI
+```
 * ## ESTRUCTURA SELECTIVA DOBLE. Decisión 2 (IF/THEN/ELSE)
-
-> ## SI condición
-> ## ENTONCES 
-> ## ...accion(es)...
-> ## SINO
-> ## ...accion(es)...
-> ## FIN SI
-
+```C++
+ SI condición
+ ENTONCES 
+ ...accion(es)...
+ SINO
+ ...accion(es)...
+ FIN SI
+```
 * ## ESTRUCTURA SELECTIVA DOBLE. Decisión 3 (IF-INLINE)
 
 ```C++
@@ -65,44 +64,44 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 ```
 
 * ## ESTRUCTURA SELECTIVA MÚLTIPLE. Desición Múltiple (SWITCH)
-
-> ## SEGÚN Var HACER
-> ## valor1:...accion(es)1...
-> ## valor2:...accion(es)2...
-> ## .  .  .  .  .  .  .  .  
-> ## valorN:...accion(es)N...
-> ## En otros casos de valores:...accion(es)X...
-> ## FIN SEGÚN
-              
+```C++
+ SEGÚN Var HACER
+ valor1:...accion(es)1...
+ valor2:...accion(es)2...
+ .  .  .  .  .  .  .  .  
+ valorN:...accion(es)N...
+ En otros casos de valores:...accion(es)X...
+ FIN SEGÚN
+ ```             
 * ## ESTRUCTURA REPETITIVA MIENTRAS VERDADERO. Repetición 1 (WHILE)
 ## --> [De 0 a N indefinidas veces]
-
-> ## MIENTRAS condición
-> ## HACER ...accion(es)...
-> ## FIN MIENTRAS
-
+```C++
+ MIENTRAS haya condición verdadera
+ HACER ...accion(es)...
+ FIN MIENTRAS
+```
 * ## ESTRUCTURA REPETITIVA HASTA VERDADERO. Repetición 2 (DO UNTIL)
 ## --> [De 1 a N indefinidas veces]
-
-> ## REPETIR
-> ## ...accion(es)...
-> ## HASTA QUE condición
-
+```C++
+ REPETIR
+ ...accion(es)...
+ HASTA QUE haya condición verdadera
+```
 
 * ## ESTRUCTURA REPETITIVA HASTA FALSO. Repetición 3 (DO WHILE)
 ## --> [De 1 a N indefinidas veces]
-
-> ## HACER
-> ## ...accion(es)...
-> ## HASTA QUE condición falsa
-
+```C++
+ HACER
+ ...accion(es)...
+ HASTA QUE haya condición falsa
+```
 * ## ESTRUCTURA REPETITIVA DESDE. Repetición 4 (FOR)
 ## --> [N veces]
-
-> ## PARA Var desde valorINI hasta valorFIN, con paso P
-> ## HACER ...accion(es)...
-> ## FIN PARA
-
+```C++
+ PARA Var desde valorINI hasta valorFIN, con paso P
+ HACER ...accion(es)...
+ FIN PARA
+```
 
 [1]: https://www.instagram.com/manuchi7/
 
