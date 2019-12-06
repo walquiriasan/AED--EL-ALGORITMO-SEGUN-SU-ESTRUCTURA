@@ -7,27 +7,27 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 
 # Presentación    
 
-> ## **Algoritmo nombre**
+> ## ALGORITMO NOMBRE
 
 # Start     
 
-<img src="IMG/Comenzar.png">
+> ## COMENZAR
 
 # Stop      
 
-<img src="IMG/Fin.png">
+> ## FIN
 
 # Asignación  
 
-<img src="IMG/Asignacion.png">
+> ## VAR <- EXP donde VAR es la variable y EXP es la expresión de la misma
 
 # Entrada de datos     
 
-<img src="IMG/Leer.png">
+> ## LEER variables
 
 # Salida de datos      
 
-<img src="IMG/Mostrar.png">
+> ## MOSTRAR variables
 
 # ESTRUCTURAS DE CONTROL
 
@@ -35,7 +35,10 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 
 * ## ESTRUCTURA SECUENCIAL
 
-![Secuencial](IMG/Secuencial.png) 
+> ## ACCIÓN 1
+> ## ACCIÓN 2
+> ## . . . . 
+> ## ACCIÓN N
 
 
 * ## ESTRUCTURA SELECTIVA SIMPLE. Decisión 1 (IF/THEN)
