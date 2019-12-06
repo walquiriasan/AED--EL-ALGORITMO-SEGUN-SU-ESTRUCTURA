@@ -32,7 +32,7 @@ Controlan el modo de ejecución del programa.
 
 # Estructura de control 1: ESTRUCTURA SECUENCIAL
 
-<img src="IMG/Secuenciales.png">
+<img src="IMG/Secuencial.png">
 
 # Estructura de control 2: ESTRUCTURA SELECTIVA SIMPLE. Decisión 1 (IF/THEN)
 
