@@ -43,7 +43,10 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 
 * ## ESTRUCTURA SELECTIVA SIMPLE. Decisión 1 (IF/THEN)
 
-<img src="IMG/Decision 1.png">
+> ## SI condición
+> ## ENTONCES 
+> ## ...accion(es)...
+> ## FIN SI
 
 * ## ESTRUCTURA SELECTIVA DOBLE. Decisión 2 (IF/THEN/ELSE)
 
