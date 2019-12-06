@@ -5,7 +5,6 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 
 ###### Imagen basada en la Imagen del autor [Manuchi][1] y obtenida en [Pixabay][2]
 
-
 # Presentación    
 
 <img src="IMG/Algoritmo nombre.png">
@@ -36,7 +35,8 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 
 * ## ESTRUCTURA SECUENCIAL
 
-<img src="IMG/Secuencial.png">
+![Secuencial](IMG/Secuencial.png) 
+
 
 * ## ESTRUCTURA SELECTIVA SIMPLE. Decisión 1 (IF/THEN)
 
