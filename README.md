@@ -50,7 +50,7 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 
 <img src="IMG/Segun.png">
               
-* ## ESTRUCTURA REPETITIVA MIENTRAS. Repetición 1 (WHILE)
+* ## ESTRUCTURA REPETITIVA MIENTRAS VERDADERO. Repetición 1 (WHILE)
 ## --> [De 0 a N indefinidas veces]
 
 <img src="IMG/Repeticion 1.png">
