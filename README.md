@@ -51,14 +51,17 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 <img src="IMG/Segun.png">
               
 * ## ESTRUCTURA REPETITIVA MIENTRAS. Repetición 1 (WHILE)
+## --> [De 0 a N veces]
 
 <img src="IMG/Repeticion 1.png">
 
 * ## ESTRUCTURA REPETITIVA HASTA. Repetición 2 (DO UNTIL)
+## --> [De 1 a N veces]
 
 <img src="IMG/Repeticion 2.png">
 
 * ## ESTRUCTURA REPETITIVA DESDE. Repetición 3 (FOR)
+## --> [N veces]
 
 <img src="IMG/Repeticion 3.png">
 
