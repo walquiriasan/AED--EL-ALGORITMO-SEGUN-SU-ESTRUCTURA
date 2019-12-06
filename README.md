@@ -26,7 +26,7 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
     + FOR
 </details>
 
-# Presentación  [3]  
+# Presentación 
 ```C++
  ALGORITMO NOMBRE
 ```
