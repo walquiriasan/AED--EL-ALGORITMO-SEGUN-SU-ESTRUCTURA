@@ -5,7 +5,28 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 
 ###### Imagen basada en la Imagen del autor [Manuchi][1] y obtenida en [Pixabay][2]
 
-# Presentación    
+<details>
+<summary>TABLA DE CONTENIDOS</summary>
+ 
++ Presentación
++ Start
++ Stop
++ Asignación
++ Entrada de datos
++ Salida de datos
++ Estructuras de Control
+    + Estructura Secuencial
+    + IF/THEN
+    + IF/THEN/ELSE
+    + IF-INLINE
+    + SWITCH
+    + WHILE
+    + DO UNTIL
+    + DO WHILE
+    + FOR
+</details>
+
+# Presentación  [3]  
 ```C++
  ALGORITMO NOMBRE
 ```
