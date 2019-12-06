@@ -1,4 +1,4 @@
-# EL-ALGORITMO-SEGUN-SU-ESTRUCTURA
+# <ins>EL-ALGORITMO-SEGÚN-SU-ESTRUCTURA</ins>
 Descripción de las estructuras del Algoritmo (Pseudocódigo)
 
 
@@ -26,24 +26,38 @@ Descripción de las estructuras del Algoritmo (Pseudocódigo)
 
 <img src="IMG/Mostrar.png">
 
-# Decisión (IF)
+# ESTRUCTURAS DE CONTROL
 
-<img src="IMG/Decision.png">
+Controlan el modo de ejecución del programa.
+
+# Estructura de control 1: ESTRUCTURA SECUENCIAL
+
+<img src="IMG/Secuenciales.png">
+
+# Estructura de control 2: ESTRUCTURA SELECTIVA SIMPLE. Decisión 1 (IF/THEN)
+
+<img src="IMG/Decision 1.png">
+
+# Estructura de control 2: ESTRUCTURA SELECTIVA DOBLE. Decisión 2 (IF/THEN/ELSE)
+
+<img src="IMG/Decision 2.png">
+
+# Estructura de control 2: ESTRUCTURA SELECTIVA MÚLTIPLE. Desición Múltiple (SWITCH)
+
+<img src="IMG/Segun.png">
               
-# Repetición 1 (WHILE)
+# Estructura de control 3: ESTRUCTURA REPETITIVA MIENTRAS. Repetición 1 (WHILE)
 
 <img src="IMG/Repeticion 1.png">
 
-# Repetición 2 (DO UNTIL)
+# Estructura de control 3: ESTRUCTURA REPETITIVA HASTA. Repetición 2 (DO UNTIL)
 
 <img src="IMG/Repeticion 2.png">
 
-# Repetición 3 (FOR)
+# Estructura de control 3: ESTRUCTURA REPETITIVA DESDE. Repetición 3 (FOR)
 
 <img src="IMG/Repeticion 3.png">
 
-# Desición Múltiple (SWITCH)
 
-<img src="IMG/Segun.png">
 
 
