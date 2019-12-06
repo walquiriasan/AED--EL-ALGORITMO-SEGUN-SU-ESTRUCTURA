@@ -55,12 +55,12 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 
 <img src="IMG/Repeticion 1.png">
 
-* ## ESTRUCTURA REPETITIVA HASTA 1. Repetición 2 (DO UNTIL)
+* ## ESTRUCTURA REPETITIVA HASTA VERDADERO. Repetición 2 (DO UNTIL)
 ## --> [De 1 a N indefinidas veces]
 
 <img src="IMG/Repeticion 2.png">
 
-* ## ESTRUCTURA REPETITIVA HASTA 2. Repetición 3 (DO WHILE)
+* ## ESTRUCTURA REPETITIVA HASTA FALSO. Repetición 3 (DO WHILE)
 ## --> [De 1 a N indefinidas veces]
 
 <img src="IMG/Repeticion 3.png">
