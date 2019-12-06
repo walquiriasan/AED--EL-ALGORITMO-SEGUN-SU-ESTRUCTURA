@@ -28,7 +28,7 @@ Descripción de las estructuras del Algoritmo (Pseudocódigo)
 
 # ESTRUCTURAS DE CONTROL
 
-Controlan el modo de ejecución del programa.
+Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Selectiva, Repetitiva.
 
 ## Estructura de control 1: ESTRUCTURA SECUENCIAL
 
