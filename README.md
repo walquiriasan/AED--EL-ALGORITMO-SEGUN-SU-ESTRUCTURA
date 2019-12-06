@@ -77,7 +77,7 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 
 [^1]: Imagen obtenida en https://pixabay.com/es/illustrations/fondo-abstracto-l%C3%ADnea-ilustraci%C3%B3n-2462431/
 
- https://www.instagram.com/manuchi7/
+ Enlace al instagram del autor: https://www.instagram.com/manuchi7/
 
 
   
