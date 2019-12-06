@@ -1,5 +1,5 @@
 # <ins>EL-ALGORITMO-SEGÚN-SU-ESTRUCTURA</ins>
-Descripción de las estructuras del Algoritmo (Pseudocódigo)
+Descripción de las estructuras del Algoritmo en Pseudocódigo
 
 
 # Presentación    
