@@ -5,6 +5,10 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 
 Imagen basada en la Imagen del autor Manuchi. [^1]
 
+[^1]: Imagen obtenida en https://pixabay.com/es/illustrations/fondo-abstracto-l%C3%ADnea-ilustraci%C3%B3n-2462431/
+
+ https://www.instagram.com/manuchi7/
+
 # Presentación    
 
 <img src="IMG/Algoritmo nombre.png">
@@ -74,8 +78,5 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 <img src="IMG/Repeticion 4.png">
 
 
-## Notas al pie
 
-  [^1]: Imagen obtenida en https://pixabay.com/es/illustrations/fondo-abstracto-l%C3%ADnea-ilustraci%C3%B3n-2462431/
-
- https://www.instagram.com/manuchi7/
+  
