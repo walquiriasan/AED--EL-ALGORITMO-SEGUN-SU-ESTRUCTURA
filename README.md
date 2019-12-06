@@ -3,7 +3,7 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 
 <img src="IMG/marco superior.jpg">
 
->>> Imagen basada en la Imagen del autor [Manuchi][1] y obtenida en [Pixabay][2]
+> > > > > > > >  Imagen basada en la Imagen del autor [Manuchi][1] y obtenida en [Pixabay][2]
 
 
 # Presentación    
