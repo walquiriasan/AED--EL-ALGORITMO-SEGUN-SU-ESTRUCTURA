@@ -50,37 +50,58 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 
 * ## ESTRUCTURA SELECTIVA DOBLE. Decisión 2 (IF/THEN/ELSE)
 
-<img src="IMG/Decision 2.png">
+> ## SI condición
+> ## ENTONCES 
+> ## ...accion(es)...
+> ## SINO
+> ## ...accion(es)...
+> ## FIN SI
 
 * ## ESTRUCTURA SELECTIVA DOBLE. Decisión 3 (IF-INLINE)
 
-<img src="IMG/Decision if inline.png">
+```C++
+    CONDICIÓN ? EXPRESIÓN 1
+              : EXPRESIÓN 2;
+```
 
 * ## ESTRUCTURA SELECTIVA MÚLTIPLE. Desición Múltiple (SWITCH)
 
-<img src="IMG/Segun.png">
+> ## SEGÚN Var HACER
+> ## valor1:...accion(es)1...
+> ## valor2:...accion(es)2...
+> ## .  .  .  .  .  .  .  .  
+> ## valorN:...accion(es)N...
+> ## En otros casos de valores:...accion(es)X...
+> ## FIN SEGÚN
               
 * ## ESTRUCTURA REPETITIVA MIENTRAS VERDADERO. Repetición 1 (WHILE)
 ## --> [De 0 a N indefinidas veces]
 
-<img src="IMG/Repeticion 1.png">
+> ## MIENTRAS condición
+> ## HACER ...accion(es)...
+> ## FIN MIENTRAS
 
 * ## ESTRUCTURA REPETITIVA HASTA VERDADERO. Repetición 2 (DO UNTIL)
 ## --> [De 1 a N indefinidas veces]
 
-<img src="IMG/Repeticion 2.png">
+> ## REPETIR
+> ## ...accion(es)...
+> ## HASTA QUE condición
+
 
 * ## ESTRUCTURA REPETITIVA HASTA FALSO. Repetición 3 (DO WHILE)
 ## --> [De 1 a N indefinidas veces]
 
-<img src="IMG/Repeticion 3.png">
+> ## HACER
+> ## ...accion(es)...
+> ## HASTA QUE condición falsa
 
 * ## ESTRUCTURA REPETITIVA DESDE. Repetición 4 (FOR)
 ## --> [N veces]
 
-<img src="IMG/Repeticion 4.png">
-
-
+> ## PARA Var desde valorINI hasta valorFIN, con paso P
+> ## HACER ...accion(es)...
+> ## FIN PARA
 
 
 [1]: https://www.instagram.com/manuchi7/
