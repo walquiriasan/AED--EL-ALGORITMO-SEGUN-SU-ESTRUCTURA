@@ -42,6 +42,10 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 
 <img src="IMG/Decision 2.png">
 
+* ## ESTRUCTURA SELECTIVA DOBLE. Decisión 3 (IF-INLINE)
+
+<img src="IMG/Decision if inline.png">
+
 * ## ESTRUCTURA SELECTIVA MÚLTIPLE. Desición Múltiple (SWITCH)
 
 <img src="IMG/Segun.png">
