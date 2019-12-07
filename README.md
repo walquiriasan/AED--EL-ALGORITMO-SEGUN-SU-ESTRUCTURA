@@ -16,8 +16,8 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 + [Salida de datos](#Salida-de-datos)
 + [Estructuras de Control](#Estructuras-de-control)
     + [Estructura Secuencial](#Estructura-Secuencial)
-    + [Estructura Selectiva Simple Decisión 1 (IF/THEN)](#Estructura-Selectiva-Simple-Decisión-1)
-    + [IF/THEN/ELSE](#)
+    + [Estructura Selectiva Simple. Decisión 1 (IF/THEN)](#Estructura-Selectiva-Simple-Decisión-1)
+    + [Estrucrura Selectiva Doble. Decision 2(IF/THEN/ELSE)](#Estructura-Selectiva-Doble-Decisión-2)
     + [IF-INLINE](#)
     + [SWITCH](#)
     + [WHILE](#)
@@ -62,14 +62,15 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 ```
 
 * ## ESTRUCTURA SELECTIVA SIMPLE. Decisión 1 
-## (IF/THEN)
+  ## (IF/THEN)
 ```C++
  SI condición
  ENTONCES 
  ...accion(es)...
  FIN SI
 ```
-* ## ESTRUCTURA SELECTIVA DOBLE Decisión 2 (IF/THEN/ELSE)
+* ## ESTRUCTURA SELECTIVA DOBLE. Decisión 2
+  ## (IF/THEN/ELSE)
 ```C++
  SI condición
  ENTONCES 
