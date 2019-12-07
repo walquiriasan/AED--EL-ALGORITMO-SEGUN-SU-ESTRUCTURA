@@ -19,11 +19,11 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
     + [Estructura Selectiva Simple. Decisión 1 (IF/THEN)](#Estructura-Selectiva-Simple-Decisión-1-IF-THEN)
     + [Estrucrura Selectiva Doble. Decisión 2 (IF/THEN/ELSE)](#Estructura-Selectiva-Doble-Decisión-2-IF-THEN-ELSE)
     + [Estrucrura Selectiva Doble. Decisión 3 (IF-INLINE)](#ESTRUCTURA-SELECTIVA-DOBLE-Decisión-3-IF-INLINE)
-    + [Estructura Selectiva Multiple. Decisión Múltiple 4 (SWITCH)](#ESTRUCTURA-SELECTIVA-MÚLTIPLE-Desición-Múltiple-SWITCH)
-    + [WHILE](#)
-    + [DO UNTIL](#)
-    + [DO WHILE](#)
-    + [FOR](#)
+    + [Estructura Selectiva Multiple. Decisión Múltiple (SWITCH)](#ESTRUCTURA-SELECTIVA-MÚLTIPLE-Desición-Múltiple-SWITCH)
+    + [ESTRUCTURA REPETITIVA MIENTRAS VERDADERO. Repetición 1 (WHILE)](#ESTRUCTURA-REPETITIVA-MIENTRAS-VERDADERO-Repetición-1-WHILE)
+    + [ESTRUCTURA REPETITIVA HASTA VERDADERO. Repetición 2 (DO UNTIL](#ESTRUCTURA-REPETITIVA-HASTA-VERDADERO-Repetición-2-DO UNTIL)
+    + [ESTRUCTURA REPETITIVA HASTA FALSO. Repetición 3 (DO WHILE)](#ESTRUCTURA-REPETITIVA-HASTA-FALSO-Repetición-3-DO-WHILE))
+    + [ESTRUCTURA REPETITIVA DESDE. Repetición 4 (FOR)](#ESTRUCTURA-REPETITIVA-DESDE-Repetición-4-FOR-)
 </details>
 
 # Presentación 
