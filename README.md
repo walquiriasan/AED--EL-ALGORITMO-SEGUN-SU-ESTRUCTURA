@@ -61,7 +61,8 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
  ACCIÓN N
 ```
 
-* ## IF/THEN. ESTRUCTURA SELECTIVA SIMPLE Decisión 1 
+* ## IF/THEN
+ESTRUCTURA SELECTIVA SIMPLE Decisión 1 
 ```C++
  SI condición
  ENTONCES 
