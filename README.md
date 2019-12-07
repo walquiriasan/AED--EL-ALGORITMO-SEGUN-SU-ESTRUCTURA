@@ -18,7 +18,7 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 + [Salida de datos](#Salida-de-datos)
 + [Estructuras de Control](#Estructuras-de-control)
     + [Estructura Secuencial](#Estructura-Secuencial)
-    + [Estructura Selectiva Simple. Decisión 1 (IF/THEN)](#Estructura-Selectiva-Simple-Decisión-1-IF-THEN)
+    + [Estructura Selectiva Simple. Decisión 1 (IF/THEN)](#Estructura-Selectiva-Simple-Decisión-1//IF//THEN)
     + [Estrucrura Selectiva Doble. Decisión 2 (IF/THEN/ELSE)](#Estructura-Selectiva-Doble-Decisión-2-IF-THEN-ELSE)
     + [Estrucrura Selectiva Doble. Decisión 3 (IF-INLINE)](#ESTRUCTURA-SELECTIVA-DOBLE-Decisión-3-IF-INLINE)
     + [Estructura Selectiva Multiple. Decisión Múltiple (SWITCH)](#ESTRUCTURA-SELECTIVA-MÚLTIPLE-Desición-Múltiple-SWITCH)
@@ -63,7 +63,7 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: `Secuencial`, `Sel
  ACCIÓN N
 ```
 
-* ## ESTRUCTURA SELECTIVA SIMPLE. Decisión 1 (IF-THEN)
+* ## ESTRUCTURA SELECTIVA SIMPLE. Decisión 1 (IF/THEN)
 ```Javascript
  SI condición
  ENTONCES 
