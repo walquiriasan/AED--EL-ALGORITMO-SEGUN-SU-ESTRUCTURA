@@ -6,7 +6,7 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 ###### Imagen cortada del autor [Manuchi][1] y obtenida en [Pixabay][2]
 
 <details>
-<summary>TABLA DE CONTENIDOS</summary>
+<summary>ÍNDICE DE CONTENIDOS</summary>
  
 + [Presentación](#Presentación)
 + [Start](#Start)
