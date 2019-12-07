@@ -10,20 +10,20 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
  
 + [Presentación](#Presentación)
 + [Start](#Start)
-+ Stop
-+ Asignación
-+ Entrada de datos
-+ Salida de datos
-+ Estructuras de Control
-    + Estructura Secuencial
-    + IF/THEN
-    + IF/THEN/ELSE
-    + IF-INLINE
-    + SWITCH
-    + WHILE
-    + DO UNTIL
-    + DO WHILE
-    + FOR
++ [Stop](#Stop)
++ [Asignación](#Asignación)
++ [Entrada de datos](#Entrada-de-datos)
++ [Salida de datos](#Salida-de-datos)
++ [Estructuras de Control](#Estructuras-de-control)
+    + [Estructura Secuencial](#Estructura-Secuencial)
+    + [IF/THEN](#Estructura-selectiva-simple)
+    + [IF/THEN/ELSE](#)
+    + [IF-INLINE](#)
+    + [SWITCH](#)
+    + [WHILE](#)
+    + [DO UNTIL](#)
+    + [DO WHILE](#)
+    + [FOR](#)
 </details>
 
 # Presentación 
