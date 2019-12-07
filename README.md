@@ -4,6 +4,7 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 ![imagen abstracta rectángular azul con líneas blancas que forman triángulos con vértices circulares blancos](IMG/marco-superior.jpg)
 
 ###### Imagen cortada del autor [Manuchi][1] y obtenida en [Pixabay][2]
+
 <details>
 <summary>ÍNDICE DE CONTENIDOS</summary>
  
