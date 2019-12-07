@@ -23,7 +23,7 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
     + [Estructura Repetitiva Mientras Verdadero. Repetición 1 (WHILE)](#ESTRUCTURA-REPETITIVA-MIENTRAS-VERDADERO-Repetición-1-WHILE)
     + [Estructura Repetitiva Hasta Verdadeo. Repetición 2 (DO UNTIL)](#ESTRUCTURA-REPETITIVA-HASTA-VERDADERO-Repetición-2-DO-UNTIL)
     + [Estructura Repetitiva Hasta Falso. Repetición 3 (DO WHILE)](#ESTRUCTURA-REPETITIVA-HASTA-FALSO-Repetición-3-DO-WHILE)
-    + [Estructura Repetitiva Desde. Repetición 4 (FOR)](#ESTRUCTURA-REPETITIVA-DESDE-Repetición-4-FOR-)
+    + [Estructura Repetitiva Desde. Repetición 4 (FOR)](#ESTRUCTURA-REPETITIVA-DESDE-Repetición-4-FOR)
 </details>
 
 # Presentación 
