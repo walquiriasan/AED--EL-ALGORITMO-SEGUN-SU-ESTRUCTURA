@@ -19,7 +19,7 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
     + [Estructura Selectiva Simple. Decisión 1 (IF/THEN)](#Estructura-Selectiva-Simple-Decisión-1-IF-THEN)
     + [Estrucrura Selectiva Doble. Decision 2 (IF/THEN/ELSE)](#Estructura-Selectiva-Doble-Decisión-2-IF-THEN-ELSE)
     + [Estrucrura Selectiva Doble. Decision 3 (IF-INLINE)](#ESTRUCTURA-SELECTIVA-DOBLE-Decisión-3-IF-INLINE)
-    + [SWITCH](#)
+    + [SWITCH](#ESTRUCTURA-SELECTIVA-MÚLTIPLE-Desición-Múltiple-SWITCH-)
     + [WHILE](#)
     + [DO UNTIL](#)
     + [DO WHILE](#)
