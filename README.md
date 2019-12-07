@@ -1,7 +1,7 @@
 # <ins>EL-ALGORITMO-SEGÚN-SU-ESTRUCTURA</ins>
 Descripción de las estructuras del Algoritmo en Pseudocódigo
 
-<img src="IMG/marco superior.jpg">
+![imagen abstracta rectángular azul con líneas blancas que forman triángulos con vértices circulares blancos](IMG/marco-superior.jpg)
 
 ###### Imagen cortada del autor [Manuchi][1] y obtenida en [Pixabay][2]
 
