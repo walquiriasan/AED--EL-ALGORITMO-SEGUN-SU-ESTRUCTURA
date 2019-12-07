@@ -8,8 +8,8 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 <details>
 <summary>TABLA DE CONTENIDOS</summary>
  
-+ Presentación
-+ Start
++ [Presentación](#Presentación)
++ [Start](#Start)
 + Stop
 + Asignación
 + Entrada de datos
