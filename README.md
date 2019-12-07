@@ -27,34 +27,34 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 </details>
 
 # Presentación 
-```C++
+```Javascript
  ALGORITMO NOMBRE
 ```
 # Start     
-```C++
+```Javascript
  COMENZAR
 ```
 # Stop      
-```C++
+```Javascript
  FIN
 ```
 # Asignación  
-```C++
+```Javascript
  VAR <- EXP donde VAR es la variable y EXP es la expresión de la misma
 ```
 # Entrada de datos     
-```C++
+```Javascript
  LEER variables
 ```
 # Salida de datos      
-```C++
+```Javascript
  MOSTRAR variables
 ```
 # ESTRUCTURAS DE CONTROL
 Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Selectiva, Repetitiva.
 
 * ## ESTRUCTURA SECUENCIAL
-```C++
+```Javascript
  ACCIÓN 1
  ACCIÓN 2
  . . . . 
@@ -62,14 +62,14 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 ```
 
 * ## ESTRUCTURA SELECTIVA SIMPLE. Decisión 1 (IF-THEN)
-```C++
+```Javascript
  SI condición
  ENTONCES 
  ...accion(es)...
  FIN SI
 ```
 * ## ESTRUCTURA SELECTIVA DOBLE. Decisión 2 (IF-THEN-ELSE)
-```C++
+```Javascript
  SI condición
  ENTONCES 
  ...accion(es)...
@@ -79,13 +79,13 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 ```
 * ## ESTRUCTURA SELECTIVA DOBLE. Decisión 3 (IF-INLINE)
 
-```C++
+```Javascript
     CONDICIÓN ? EXPRESIÓN 1
               : EXPRESIÓN 2;
 ```
 
 * ## ESTRUCTURA SELECTIVA MÚLTIPLE. Desición Múltiple (SWITCH)
-```C++
+```Javascript
  SEGÚN Var HACER
  valor1:...accion(es)1...
  valor2:...accion(es)2...
@@ -96,14 +96,14 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
  ```             
 * ## ESTRUCTURA REPETITIVA MIENTRAS VERDADERO. Repetición 1 (WHILE)
 ## --> [De 0 a N indefinidas veces]
-```C++
+```Javascript
  MIENTRAS haya condición verdadera
  HACER ...accion(es)...
  FIN MIENTRAS
 ```
 * ## ESTRUCTURA REPETITIVA HASTA VERDADERO. Repetición 2 (DO UNTIL)
 ## --> [De 1 a N indefinidas veces]
-```C++
+```Javascript
  REPETIR
  ...accion(es)...
  HASTA QUE haya condición verdadera
@@ -111,14 +111,14 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Select
 
 * ## ESTRUCTURA REPETITIVA HASTA FALSO. Repetición 3 (DO WHILE)
 ## --> [De 1 a N indefinidas veces]
-```C++
+```Javascript
  HACER
  ...accion(es)...
  HASTA QUE haya condición falsa
 ```
 * ## ESTRUCTURA REPETITIVA DESDE. Repetición 4 (FOR)
 ## --> [N veces]
-```C++
+```Javascript
  PARA Var desde valorINI hasta valorFIN, con paso P
  HACER ...accion(es)...
  FIN PARA
