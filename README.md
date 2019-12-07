@@ -51,7 +51,7 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
  MOSTRAR variables
 ```
 # ESTRUCTURAS DE CONTROL
-Controlan el modo de ejecución del programa. Son de 3 tipos: Secuencial, Selectiva, Repetitiva.
+Controlan el modo de ejecución del programa. Son de 3 tipos: `Secuencial`, `Selectiva`, `Repetitiva`.
 
 * ## ESTRUCTURA SECUENCIAL
 ```Javascript
