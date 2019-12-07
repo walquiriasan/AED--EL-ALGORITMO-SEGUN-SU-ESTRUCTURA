@@ -63,7 +63,7 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: `Secuencial`, `Sel
  ACCIÓN N
 ```
 
-* ## ESTRUCTURA SELECTIVA SIMPLE. Decisión 1 (IF\/THEN)
+* ## ESTRUCTURA SELECTIVA SIMPLE. Decisión 1 \(IF\/THEN\)
 ```Javascript
  SI condición
  ENTONCES 
