@@ -5,6 +5,8 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 
 ###### Imagen cortada del autor [Manuchi][1] y obtenida en [Pixabay][2]
 
+&nbsp;
+
 <details>
 <summary>ÍNDICE DE CONTENIDOS</summary>
  
