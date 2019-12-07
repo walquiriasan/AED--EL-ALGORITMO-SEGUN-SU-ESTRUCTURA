@@ -17,7 +17,7 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 + [Estructuras de Control](#Estructuras-de-control)
     + [Estructura Secuencial](#Estructura-Secuencial)
     + [Estructura Selectiva Simple. Decisión 1 (IF/THEN)](#Estructura-Selectiva-Simple-Decisión-1)
-    + [Estrucrura Selectiva Doble. Decision 2(IF/THEN/ELSE)](#Estructura-Selectiva-Doble-Decisión-2)
+    + [Estrucrura Selectiva Doble. Decision 2 (IF/THEN/ELSE)](#Estructura-Selectiva-Doble-Decisión-2)
     + [IF-INLINE](#)
     + [SWITCH](#)
     + [WHILE](#)
