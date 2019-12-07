@@ -16,7 +16,7 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 + [Salida de datos](#Salida-de-datos)
 + [Estructuras de Control](#Estructuras-de-control)
     + [Estructura Secuencial](#Estructura-Secuencial)
-    + [IF/THEN](#IF-THEN)
+    + [IF/THEN](#Estructura-Selectiva-Simple)
     + [IF/THEN/ELSE](#)
     + [IF-INLINE](#)
     + [SWITCH](#)
