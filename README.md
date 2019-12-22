@@ -48,7 +48,7 @@ Descripción de las estructuras del Algoritmo en Pseudocódigo
 ```
 # Salida de datos      
 ```Javascript
- MOSTRAR variables
+ ESCRIBIR variables
 ```
 # ESTRUCTURAS DE CONTROL
 Controlan el modo de ejecución del programa. Son de 3 tipos: *Secuencial, Selectiva, Repetitiva*.
