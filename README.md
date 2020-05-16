@@ -114,7 +114,7 @@ Controlan el modo de ejecución del programa. Son de 3 tipos: *Secuencial, Selec
 ```Javascript
  HACER
  ...accion(es)...
- HASTA QUE haya condición falsa????VERLO DESPUÉS
+ HASTA QUE haya condición falsa
 ```
 * ## ESTRUCTURA REPETITIVA DESDE. Repetición 4 (FOR)
 ## --> [N veces]
